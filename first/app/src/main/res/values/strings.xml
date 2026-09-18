@@ -1,3 +1,28 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">世界国旗</string>
+
+    <!-- 主页 -->
+    <string name="main_title">世界国旗</string>
+    <string name="main_hint">点击按钮进入对应国家的界面</string>
+    <string name="goto_cn">中国</string>
+    <string name="goto_fr">法国</string>
+    <string name="goto_us">美国</string>
+
+    <!-- 公共 -->
+    <string name="back">返回</string>
+
+    <!-- 中国 -->
+    <string name="name_cn">中国</string>
+    <string name="btn_click_cn">点击我</string>
+    <string name="result_cn">我已点击！</string>
+
+    <!-- 法国 -->
+    <string name="name_fr">France</string>
+    <string name="btn_click_fr">Cliquez ici</string>
+    <string name="result_fr">J\'ai cliqué !</string>
+
+    <!-- 美国 -->
+    <string name="name_us">United States</string>
+    <string name="btn_click_us">Click Me</string>
+    <string name="result_us">I have clicked!</string>
 </resources>

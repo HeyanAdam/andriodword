@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">World Flags</string>
+
+    <!-- Main -->
+    <string name="main_title">World Flags</string>
+    <string name="main_hint">Tap a button to open that country\'s screen</string>
+    <string name="goto_cn">China</string>
+    <string name="goto_fr">France</string>
+    <string name="goto_us">United States</string>
+
+    <!-- Common -->
+    <string name="back">Back</string>
+
+    <!-- China -->
+    <string name="name_cn">China</string>
+    <string name="btn_click_cn">Click Me</string>
+    <string name="result_cn">I have clicked!</string>
+
+    <!-- France -->
+    <string name="name_fr">France</string>
+    <string name="btn_click_fr">Cliquez ici</string>
+    <string name="result_fr">J\'ai cliqué !</string>
+
+    <!-- United States -->
+    <string name="name_us">United States</string>
+    <string name="btn_click_us">Click Me</string>
+    <string name="result_us">I have clicked!</string>
+</resources>

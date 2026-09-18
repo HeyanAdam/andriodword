@@ -1,5 +1,6 @@
 package cn.edu.sicnu.cs.stu.heyanjun.helloworld;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.activity.EdgeToEdge;
@@ -20,5 +21,15 @@ public class MainActivity extends AppCompatActivity {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
         });
+
+        // 三个按钮分别进入三个国旗界面
+        findViewById(R.id.btnChina).setOnClickListener(v ->
+                startActivity(new Intent(this, ChinaActivity.class)));
+
+        findViewById(R.id.btnFrance).setOnClickListener(v ->
+                startActivity(new Intent(this, FranceActivity.class)));
+
+        findViewById(R.id.btnUs).setOnClickListener(v ->
+                startActivity(new Intent(this, UsActivity.class)));
     }
 }

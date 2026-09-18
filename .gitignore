@@ -1,0 +1,2 @@
+# 离线编译用的 Gradle 用户目录缓存（DSH 沙箱无法写 C:\Users\HW\.gradle 时使用）
+/.gradle-build/

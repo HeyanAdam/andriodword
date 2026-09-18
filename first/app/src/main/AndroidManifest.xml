@@ -21,6 +21,19 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <!-- 三个国旗界面 -->
+        <activity
+            android:name=".ChinaActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".FranceActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".UsActivity"
+            android:exported="false" />
     </application>
 
 </manifest>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  App 图标。
+  想换成自己的图片：把图片覆盖到 mipmap-*/ic_launcher.webp 和 ic_launcher_round.webp
+  （48/72/96/144/192 px 五套），本文件无需改动。
+  图标显得太小：把下面四个 16% 调小（比如 8%）。
+-->
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@mipmap/ic_launcher"
+    android:insetLeft="16%"
+    android:insetRight="16%"
+    android:insetTop="16%"
+    android:insetBottom="16%" />

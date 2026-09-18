@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Drapeaux du monde</string>
+
+    <!-- Accueil -->
+    <string name="main_title">Drapeaux du monde</string>
+    <string name="main_hint">Touchez un bouton pour ouvrir l\'écran du pays</string>
+    <string name="goto_cn">Chine</string>
+    <string name="goto_fr">France</string>
+    <string name="goto_us">États-Unis</string>
+
+    <!-- Commun -->
+    <string name="back">Retour</string>
+
+    <!-- Chine -->
+    <string name="name_cn">Chine</string>
+    <string name="btn_click_cn">Cliquez ici</string>
+    <string name="result_cn">J\'ai cliqué !</string>
+
+    <!-- France -->
+    <string name="name_fr">France</string>
+    <string name="btn_click_fr">Cliquez ici</string>
+    <string name="result_fr">J\'ai cliqué !</string>
+
+    <!-- États-Unis -->
+    <string name="name_us">États-Unis</string>
+    <string name="btn_click_us">Click Me</string>
+    <string name="result_us">I have clicked!</string>
+</resources>
